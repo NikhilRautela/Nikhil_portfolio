@@ -1,7 +1,6 @@
 # 💼 Nikhil Singh Rautela - Developer Portfolio
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, resume, and contact information in a clean, responsive design.
-
+This is my personal portfolio website built using HTML, CSS, and JavaScript. 
 ![Portfolio Screenshot](./images/ba.jpg) <!-- Optional: Replace with a screenshot of your site -->
 
 ---

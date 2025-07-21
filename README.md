@@ -7,7 +7,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-➡️ [View Portfolio](https://nikhilrautela.github.io/Nikhil_portfolio/)
+➡️ [View Portfolio](https://whimsical-youtiao-9e8e0c.netlify.app/)
 
 ---
 
